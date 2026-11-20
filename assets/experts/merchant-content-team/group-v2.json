@@ -1,0 +1,10 @@
+{
+  "groupId": "merchant-content-team",
+  "mainRole": "main",
+  "toolIdsByRole": {
+    "writer": ["session_context", "list_uploaded_files", "read_uploaded_text", "merchant_profile_get", "merchant_catalog_get", "merchant_links_list", "merchant_memory_search", "merchant_memory_get", "read_skill", "evidence_get"],
+    "visual": ["session_context", "list_uploaded_files", "read_uploaded_text", "merchant_profile_get", "merchant_catalog_get", "merchant_links_list", "merchant_memory_search", "merchant_memory_get", "read_skill", "evidence_get"],
+    "reviewer": ["session_context", "list_uploaded_files", "read_uploaded_text", "merchant_profile_get", "merchant_catalog_get", "merchant_links_list", "merchant_memory_search", "merchant_memory_get", "read_skill", "evidence_get"],
+    "researcher": ["session_context", "list_uploaded_files", "read_uploaded_text", "merchant_profile_get", "merchant_catalog_get", "merchant_links_list", "merchant_memory_search", "merchant_memory_get", "read_skill", "evidence_get", "public_page_collect", "merchant_source_collect", "xhs_public_search", "merchant_research_get"]
+  }
+}

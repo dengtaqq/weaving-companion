@@ -1,0 +1,18 @@
+node_modules/
+dist/
+dist-web/
+.data/
+secrets.enc
+auth.key
+host.lock
+zhiban.sqlite*
+.env
+.env.*
+!.env.example
+*.log
+
+# 本机 IDE 配置与开发过程导出物不进入主项目交付。
+.idea/
+.doc/
+design-demos/
+output/

@@ -1,0 +1,16 @@
+{
+  "groupId": "merchant-content-team",
+  "mainRole": "coordinator",
+  "writerRole": "writer",
+  "visualRole": "visual",
+  "reviewerRole": "reviewer",
+  "writerToolIds": [
+    "session_context",
+    "list_uploaded_files",
+    "read_uploaded_text",
+    "merchant_profile_get",
+    "merchant_links_list",
+    "read_skill",
+    "evidence_get"
+  ]
+}
